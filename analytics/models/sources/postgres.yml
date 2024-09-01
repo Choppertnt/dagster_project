@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: postgres
+    schema: public
+    tables:
+      - name: data1
+      - name: data2

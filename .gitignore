@@ -1,0 +1,12 @@
+# Ignoring .env file
+.venv/
+.env
+project/__pycache__
+project/assets/__pycache__
+project/jobs/__pycache__
+project/logs
+project/resources/__pycache__
+opt
+logs
+data
+

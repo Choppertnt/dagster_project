@@ -1,0 +1,7 @@
+locations:
+  - location_name: ProjectV1
+    code_source:
+      package_name: project
+storage:
+  local:
+    base_dir: "/tmp/tmpjewdxrkk/storage"

@@ -1,0 +1,6 @@
+profiles.yml
+dbt_packages
+logs
+target
+.user.yml
+package-lock.yml
