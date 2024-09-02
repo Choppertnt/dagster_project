@@ -33,3 +33,7 @@ This project demonstrates the use of Dagster for orchestration, Python for data 
     - Use DBT to transform data from a PostgreSQL data source.
 5. **Plot a graph using data from the transformation**:
     - Plot a bar graph using the transformed data to visualize which profession has the highest sales.
+
+
+## Results project
+![Dagster workspace](output/output.png)
