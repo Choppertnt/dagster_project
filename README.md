@@ -36,4 +36,4 @@ This project demonstrates the use of Dagster for orchestration, Python for data 
 
 
 ## Results project
-![Dagster workspace](output/output.png)
+![Dagster workspace](output/work_flow.png)
