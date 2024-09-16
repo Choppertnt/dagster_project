@@ -1,5 +1,5 @@
 # Dagster , GoogleDrive , Postgresql , DBT
-![Dagster diagram](output/work_flow.png)
+![Dagster diagram](output/dagster_project.png)
 ## Objective
 This project demonstrates the use of Dagster for orchestration, Python for data cleaning and validation, data extraction from Google Drive, uploading data to PostgreSQL, and using DBT to transform the data.
 
